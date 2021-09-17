@@ -1,0 +1,8 @@
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.AssemblyReference.cache
+X:\VS_Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
