@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.SettingsPage">
+    <ContentPage.Content>
+            <!--<Label Text="This is the Settings Page"
+               FontSize="Medium"
+               TextColor="{DynamicResource Primary}"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="StartAndExpand"
+               Margin="0,50,0,0"/>-->
+        <StackLayout>
+            <Button HeightRequest="50"
+                    Margin="0,10,0,0"
+                    BackgroundColor="White"
+                    Text="Account"
+                    TextColor="DimGray"
+                    FontSize="Small"
+                    />
+            <Button HeightRequest="50"
+                    Margin="0,10,0,0"
+                    BackgroundColor="White"
+                    Text="Notifications"
+                    TextColor="DimGray"
+                    FontSize="Small"
+                    />
+            <Button HeightRequest="50"
+                    Margin="0,10,0,0"
+                    BackgroundColor="White"
+                    Text="Info"
+                    TextColor="DimGray"
+                    FontSize="Small"
+                    />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

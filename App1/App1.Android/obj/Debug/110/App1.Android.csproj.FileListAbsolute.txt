@@ -24,7 +24,6 @@ X:\VS_Projects\App1\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
 X:\VS_Projects\App1\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
 X:\VS_Projects\App1\App1\App1.Android\bin\Debug\App1.dll
 X:\VS_Projects\App1\App1\App1.Android\bin\Debug\App1.pdb
-X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\App1.Android.csproj.CopyComplete
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\App1.Android.dll
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\App1.Android.pdb
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\bin\com.companyname.app1.apk
@@ -610,3 +609,6 @@ X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\src\mono\androidx\pr
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
 X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\App1.Android.csproj.CopyComplete
+X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\assets\MvvmHelpers.dll
+X:\VS_Projects\App1\App1\App1.Android\obj\Debug\110\android\assets\MvvmHelpers.pdb

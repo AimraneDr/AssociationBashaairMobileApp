@@ -1,22 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="App1.Views.HomePage">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:ViewModels="clr-namespace:App1.ViewModels"
+             x:Class="App1.Views.HomePage"
+             x:DataType="ViewModels:HomePageViewModel">
+    <ContentPage.BindingContext>
+        <ViewModels:HomePageViewModel/>
+    </ContentPage.BindingContext>
+    
     <ContentPage.Content>
-        <StackLayout>
-            <Label x:Name="main_label"
-                   Text="Welcome to HomePage"
-                   FontSize="Large"
+        <Grid RowDefinitions="*,auto,auto,*">
+            <Label Text="{Binding Result}"
+                   FontSize="Medium"
                    TextColor="{DynamicResource Primary}"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-            <Button Margin="10,0,10,10"
-                    Text="Func"
+                   Grid.Row="1"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" />
+            <Button Margin="10,50,10,10"
+                    Text="func"
+                    CornerRadius="30"
                     FontSize="Large"
                     BackgroundColor="{DynamicResource Primary}"
-                    Clicked="Button_Clicked">
+                    Grid.Row="2"
+                    Command="{Binding IncreaseCount}">
                 
             </Button>
-        </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
